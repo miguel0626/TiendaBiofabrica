@@ -1,0 +1,10 @@
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\bin\Debug\Entities.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\bin\Debug\Entities.pdb
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\obj\Debug\Entities.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\obj\Debug\Entities.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\bin\Debug\Entities.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\bin\Debug\Entities.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.pdb

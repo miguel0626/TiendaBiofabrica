@@ -1,0 +1,9 @@
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\BusinessLayer\obj\Debug\BusinessLayer.pdb
