@@ -2,8 +2,11 @@ C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.dll
 C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.pdb
 C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.pdb
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.dll
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.pdb
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.dll
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\Entities.pdb

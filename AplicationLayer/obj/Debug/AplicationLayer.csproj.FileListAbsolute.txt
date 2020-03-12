@@ -12,31 +12,16 @@ C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationL
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
 C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
-C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
-D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
-D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
-D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
-D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
-D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
-D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
-D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
-D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
-D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
-D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
-D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
-D:\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
-D:\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
-D:\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
-G:\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
-G:\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
-G:\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\MySql.Data.dll
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\DataLayer.pdb
